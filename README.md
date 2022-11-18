@@ -7,4 +7,4 @@
 
 
 ## 스토리 보드
-#### [스토리보드 보기] (https://ovenapp.io/view/4SPYIbo5BaWMCADhMYQzL0V44KZXJCCz/)
+#### [스토리보드 보기](https://ovenapp.io/view/4SPYIbo5BaWMCADhMYQzL0V44KZXJCCz/)
